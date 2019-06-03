@@ -1,0 +1,12 @@
+// 1. Config files and helpers (variables, mixins,etc)
+@import 'abstracts/colors';
+@import 'abstracts/type';
+// 2. Vendors
+@import 'vendor/normalize';
+// 3. Base styles
+@import 'base/base';
+// 4. Layout
+@import 'layout/grid';
+@import 'layout/header';
+@import 'layout/hero';
+// 5. Components (Buttons, CTA, Carusel)
