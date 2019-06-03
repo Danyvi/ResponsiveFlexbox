@@ -15,7 +15,7 @@ $font-black: 900;
 //     font-family: $font-stack
 //     font-weight: $weight
 
- @mixin font($weight) {
-     font-family: $font-stack;
-     font-weight: $weight;
+@mixin font($weight) {
+    font-family: $font-stack;
+    font-weight: $weight;
 }
